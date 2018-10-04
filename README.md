@@ -1,4 +1,4 @@
-# openjdk-8-alpine-keycloak
+# openjdk-alpine-keycloak
 JBoss Keycloak server 4.5.0.Final on Alpine Linux with Open JDK 8
 
 Built for MSSQL Server support. Edit configuration/standalone.xml to configure the database connection string. 
