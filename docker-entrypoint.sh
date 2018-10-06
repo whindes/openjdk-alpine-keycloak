@@ -10,7 +10,7 @@ fi
 
 ###################
 # Operating Modes #
-##################
+###################
 
 # Lower case OPERATING_MODE
 OPERATING_MODE=`echo $OPERATING_MODE | tr A-Z a-z`
