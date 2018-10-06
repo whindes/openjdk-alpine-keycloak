@@ -1,4 +1,4 @@
-FROM java:openjdk-8-alpine
+FROM openjdk:8-jdk-alpine3.8
 LABEL maintainer="William Hindes <bhindes@hotmail.com>" 
 
 RUN apk update && \
